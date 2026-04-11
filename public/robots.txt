@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hampton-roads-lawn-care.nealfrazier.tech/sitemap.xml
